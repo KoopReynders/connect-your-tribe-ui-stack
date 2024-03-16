@@ -1,4 +1,4 @@
-# Connecting People - UI-Stack
+# UI-Stack
 
 Ontwerp en bouw verschillende states van de UI-Stack.
 
